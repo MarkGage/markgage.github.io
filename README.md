@@ -2,7 +2,6 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>Readme</title>
 </head>
 <body>
 <h1>Stoicism Project<h1>
