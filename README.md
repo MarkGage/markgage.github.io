@@ -26,7 +26,7 @@
 <ul>
 	<li>Acquent's <a href="https://thegymnasium.com">Gymnasium</a> (it's free!)</li>
 	<li><a href="https://github.com">Github</a>, for providing this sandbox</li>
-	<li>Github user <a href="https://github.com/tmatason">tmatason</a>for showing me, by his example, how to create this page</li>
+	<li>Github user <a href="https://github.com/tmatason">tmatason</a> for showing me, by his example, what information should be on this page</li>
 </ul>
 	</body>
 </html>
