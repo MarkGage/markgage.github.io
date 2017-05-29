@@ -15,5 +15,19 @@
 	<li>To learn CSS</li>
 	<li>To learn JavaScript</li>
 	<li>To have fun</li> 
-</body>
+</ul>
+<h3>Built With</h3>
+<ul>
+	<li>HTML</li>
+	<li>CSS (coming soon!)</li>
+	<li>JavaScript (coming soon!)</li>
+	<li>Fun</li> 
+</ul>
+<h3>Acknowledgments</h3>
+<ul>
+	<li>Acquent's <a href="https://thegymnasium.com">Gymnasium</a> (it's free!)</li>
+	<li><a href="https://github.com">Github</a>, for providing this sandbox</li>
+	<li>Github user <a href="https://github.com/tmatason">tmatason</a>for showing me, by his example, how to create this page</li>
+</ul>
+	</body>
 </html>
