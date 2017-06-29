@@ -1,3 +1,5 @@
 @charset "UTF-8";
 /* CSS Document */
-body{color: rgba(248,6,10,1.00)}
+p {
+  font-family: Helvetica, "Trebuchet MS", Verdana, sans-serif;
+}
