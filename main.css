@@ -21,7 +21,7 @@ h2 {
   font-family: Helvetica, "Trebuchet MS", Verdana, sans-serif;
 }
 
-#aside #summary #details {
+aside summary details {
   font-size: 1em;
   font-family: Helvetica, Arial, sans-serif;
 }
