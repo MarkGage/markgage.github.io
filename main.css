@@ -48,6 +48,15 @@ aside {
 	line-height: 30px;
 }
 
+.pquote {
+    float: right;
+    width: 100px;
+    background: #ddf;
+    font-weight: bold;
+    padding: 13px;
+    margin: 0 13px 13px 0;
+}
+
 nav {
 	position: relative bottom;
 }
