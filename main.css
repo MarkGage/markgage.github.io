@@ -6,7 +6,7 @@
 
 p {
   font-size: 1em;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Open Sans', 'Helvetica', 'Arial', sans-serif;
   line-height: 1.5;
 }
 
@@ -46,4 +46,48 @@ aside {
 	font-variant: normal;
 	font-weight: 400;
 	line-height: 30px;
+}
+
+nav {
+	position: relative bottom;
+}
+
+nav ul {
+	display: inline;
+	margin: 0 0;
+	padding: 0 0;
+}
+
+nav ul li {
+	display: inline;
+}
+nav ul li a {
+	display: inline;
+	color: #333;
+	font-size: 1em;
+	line-height: 1.75em;
+	white-space: nowrap;
+	background-color: rgba(255,255,255,.25);
+	margin: .5em .12em;
+	padding: .25em .5em;
+}
+
+nav ul li a:hover a:focus;{
+	font-size: 1em;
+	line-height: 1.75em;
+	background-color: #fff;
+	margin: 0 auto;
+	padding: .25em .5em;
+}
+
+nav ul li #activepage {
+	font-size: 1em;
+	line-height: 1.75em;
+	background-color: #fff;
+	margin: 0 auto;
+	padding: .25em .5em;
+}
+	
+main {
+	padding: 5% 5% 50px 5%;
 }
