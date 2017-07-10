@@ -8,6 +8,7 @@ p {
   font-size: 1em;
   font-family: 'Open Sans', 'Helvetica', 'Arial', sans-serif;
   line-height: 1.5;
+	padding: 5% 5% 50px 5%;
 }
 
 nav {
@@ -97,6 +98,3 @@ nav ul li #activepage {
 	padding: .25em .5em;
 }
 	
-main {
-	padding: 5% 5% 50px 5%;
-}
