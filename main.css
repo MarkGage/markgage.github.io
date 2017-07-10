@@ -50,11 +50,11 @@ aside {
 
 .pquote {
 	font-family: 'Open Sans', sans-serif;
-	font-size: .5em;
+	font-size: .75em;
 	font-style: normal;
 	font-variant: normal;
 	font-weight: 400;
-	line-height: 15px;
+	line-height: 22.5px;
     float: right;
     width: 300px;
     background: #ddf;
