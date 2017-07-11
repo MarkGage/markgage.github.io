@@ -39,6 +39,14 @@ h2 {
 	line-height: 1.5;
 }
 
+h3 {
+  font-family: 'Bellefair', serif;
+	font-size: 1.5em;
+	font-style: normal;
+	font-variant: normal;
+	line-height: 1.5;
+}
+
 aside {
   font-family: 'Open Sans', sans-serif;
 	font-size: 1em;
