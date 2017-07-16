@@ -40,9 +40,9 @@ h2 {
 }
 
 h3 {
-  font-family: 'Bellefair', 'Alegreya+SC', 'Marcellus+SC', 'Libre Franklin', serif;
-	font-size: 1em;
-	font-style: normal;
+  font-family: 'Libre Franklin', serif;
+	font-size: .80em;
+	font-style: italic;
 	font-variant: normal;
 	line-height: 1;
 }
