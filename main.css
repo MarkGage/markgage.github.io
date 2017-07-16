@@ -70,6 +70,7 @@ aside {
     float: right;
     width: 300px;
     background: rgb(173, 216, 230);
+	background: hsl(195°, 53%, 79%)
     font-weight: bold;
     padding: 13px;
     margin: 13px 13px 13px 13px;
