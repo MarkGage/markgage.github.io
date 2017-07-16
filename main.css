@@ -4,6 +4,10 @@
   font-size: 1em;
 }
 
+body {
+	background-color: rgba(230,230,250,.25);
+}
+
 p {
   font-size: 1em;
   font-family: 'Open Sans', 'Helvetica', 'Arial', sans-serif;
