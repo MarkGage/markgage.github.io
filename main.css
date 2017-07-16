@@ -15,7 +15,7 @@ p {
 }
 
 a:hover {
-    color: #ff4949;
+    color: hsl(195°, 53%, 79%);
 }
 
 nav {
