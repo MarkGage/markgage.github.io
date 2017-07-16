@@ -15,7 +15,7 @@ p {
 }
 
 a:hover {
-    color: #rgb(182,191,196);
+    color: rgb(182,191,196);
 }
 
 nav {
