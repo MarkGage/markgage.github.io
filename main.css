@@ -32,7 +32,8 @@ li {
 }
 
 h1 {
-  font-family: 'Libre Franklin', sans-serif;
+	font-family: 'Libre Franklin', sans-serif;
+	font-family: 'Amatic SC', cursive;
 	font-size: 2em;
 	font-style: normal;
 	font-variant: normal;
